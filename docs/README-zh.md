@@ -13,7 +13,9 @@
 
 <a href="https://alibaba.github.io/page-agent/" target="_blank"><b>🚀 Demo</b></a> | <a href="https://alibaba.github.io/page-agent/docs/introduction/overview" target="_blank"><b>📖 Docs</b></a> | <a href="https://news.ycombinator.com/item?id=47264138" target="_blank"><b>📢 HN Discussion</b></a> | <a href="https://x.com/simonluvramen" target="_blank"><b>𝕏 Follow on X</b></a>
 
-<video id="demo-video" src="https://github.com/user-attachments/assets/a1f2eae2-13fb-4aae-98cf-a3fc1620a6c2" controls crossorigin muted></video>
+<!-- demo video -->
+
+https://github.com/user-attachments/assets/a1f2eae2-13fb-4aae-98cf-a3fc1620a6c2
 
 ---
 
@@ -49,8 +51,8 @@
 
 | Mirrors | URL                                                                                |
 | ------- | ---------------------------------------------------------------------------------- |
-| Global  | https://cdn.jsdelivr.net/npm/page-agent@1.8.2/dist/iife/page-agent.demo.js         |
-| China   | https://registry.npmmirror.com/page-agent/1.8.2/files/dist/iife/page-agent.demo.js |
+| Global  | https://cdn.jsdelivr.net/npm/page-agent@1.9.0/dist/iife/page-agent.demo.js         |
+| China   | https://registry.npmmirror.com/page-agent/1.9.0/files/dist/iife/page-agent.demo.js |
 
 在 URL 后添加 `?autoInit=false` 可只加载脚本，不自动创建 Demo Agent；之后可通过 `new window.PageAgent(...)` 手动初始化。
 
